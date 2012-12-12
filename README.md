@@ -12,6 +12,6 @@ intended grammar.
 * aglearn.py: Code for learning simulations
 
 * saffran2001/: Data for the Saffran 2001 study
-** grammar_output.txt: All possible grammatical category sequences
-** grammar_output_trunc.txt: All possible grammatical category 
+ * grammar_output.txt: All possible grammatical category sequences
+ * grammar_output_trunc.txt: All possible grammatical category 
 sequences of length <= 5.
