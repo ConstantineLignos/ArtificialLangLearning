@@ -1,0 +1,12 @@
+a c f,True
+c f,False
+a d e c,True
+a a d e c,False
+a d e,True
+a d c e,False
+a d c f c,True
+d c f c,False
+a c f,True
+a f,False
+a e c g,True
+a e g,False
